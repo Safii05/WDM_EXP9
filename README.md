@@ -26,5 +26,10 @@ for this purpose.
 
 
 ### Output:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b7c5dc08-3a59-4daf-8cd2-8a1f84f65ed5" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bb7d4cda-c49b-4458-bfd2-0054ffa4149b" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2ac11197-5901-4af5-b316-8f1a94b6c324" />
 
 ### Result:
+Twitter data was preprocessed in RapidMiner by removing URLs, mentions, hashtags, special characters, and stopwords, converting text to lowercase, tokenizing, and stemming to obtain clean data for analysis.
